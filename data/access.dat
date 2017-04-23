@@ -1,0 +1,6 @@
+# Access list. Lines starting with # are comments
+# username password UID
+admin      admin    0
+user       user     1
+user1      1234     2
+test       1234     3
